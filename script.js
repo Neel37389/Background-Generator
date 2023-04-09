@@ -20,7 +20,7 @@ function randomRGB() {
   return color;
 }
 
-// button when clicked will set the randomly generated color value to two color inputs. 
+// button when clicked will set the randomly generated color value to two color inputs.
 button.addEventListener("click", function () {
   color1.value = randomRGB();
   color2.value = randomRGB();
