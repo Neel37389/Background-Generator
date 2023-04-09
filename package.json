@@ -1,0 +1,11 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "It creates a random gradient when we open the site. There is a random gradient button which allows us to set the background to our prefered gradient. It also displays the current rgb values.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
